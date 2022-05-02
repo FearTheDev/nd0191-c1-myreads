@@ -1,0 +1,20 @@
+{
+  "name": "myreads-app",
+  "version": "1.0.0",
+  "description": "This is a project challenge for React Nanodegree by Udacity",
+  "main": "index.js",
+  "scripts": {
+    "app": "cd starter && npm install && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FearTheDev/nd0191-c1-myreads.git"
+  },
+  "author": "Johnathan Shoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FearTheDev/nd0191-c1-myreads/issues"
+  },
+  "homepage": "https://github.com/FearTheDev/nd0191-c1-myreads#readme"
+}
